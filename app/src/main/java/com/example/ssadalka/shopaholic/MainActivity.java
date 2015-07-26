@@ -28,7 +28,7 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onClick(View v) {
                 if(eid.getText().toString().equals("mygola") && pwd.getText().toString().equals("mygola")) {
-                    Toast.makeText(getApplicationContext(), "Login Successfull", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Login Successful", Toast.LENGTH_SHORT).show();
                     try {
                         Intent myintent = new Intent(getApplicationContext(), MainPage.class);
 

@@ -18,5 +18,23 @@
         <item>Footwear</item>
         <item>Accessories</item>
     </string-array>
-</resources>
+
+    <string-array name="clothing_array">
+            <item>Casual</item>
+        <item>Formal</item>
+        <item>Traditional</item>
+        <item>Party Wear</item>
+        <item>Wedding</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Men</item>
+        <item>Women</item>
+        <item>Kids</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    </resources>
 
