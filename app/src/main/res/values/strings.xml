@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shopaholic</string>
+
+    <string name="hello_world">Welcome to Shopaholic!!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="places">Places</string>
+    <string name="select">Choose a Category</string>
+    <string name="select2">Choose a Fashion Department</string>
+
+    <string-array name="gender_array">
+        <item>Men</item>
+        <item>Women</item>
+        <item>Kids</item>
+    </string-array>
+
+    <string-array name="dept_array">
+        <item>Clothing</item>
+        <item>Footwear</item>
+        <item>Accessories</item>
+    </string-array>
+</resources>
+
